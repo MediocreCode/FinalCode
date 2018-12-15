@@ -1,0 +1,1 @@
+Link,Pink,100,23,Bomb,Luigi,White,125,21,Chop,Mario,Red,125,17,Jump,Bowser,Black,150,17,Flame,Pikachu,Yellow,90,27,Lighting
